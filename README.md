@@ -15,3 +15,5 @@ Before this, I completed my B.Tech in Electronics and Communications (ECE) from 
 
 1. Continual learning in neural networks
 2. Science Communication
+
+<center> (LinkedIn)[www.linkedin.com/in/bhasker-sri-harsha] | Google Scholar </center>
