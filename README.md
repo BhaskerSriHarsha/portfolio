@@ -1,5 +1,6 @@
 # Suri Bhasker Sri Harsha
 
+<center><img src="Bhasker Sri Harsha.jpg" align=center></img></center>
 
 I am a MS Research Scholar at the Department of Computer Science, Indian Institute of Technology Tirupati, where I work on _Catastrophic Forgetting problem_ in neural networks.
 
