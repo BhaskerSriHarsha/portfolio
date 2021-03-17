@@ -4,7 +4,7 @@
 
 I am a MS Research Scholar at the Department of Computer Science, <a href="https://iittp.ac.in/">Indian Institute of Technology Tirupati</a>, where I work on _<a href="https://en.wikipedia.org/wiki/Catastrophic_interference" target="blank">Catastrophic Forgetting problem</a>_ in neural networks.
 
-Before this, I completed my B.Tech in Electronics and Communications (ECE) from Geethanjali College of Engineering and Technology, Hyderabad, Telangana.
+I completed my B.Tech in Electronics and Communications (ECE) from Geethanjali College of Engineering and Technology, Hyderabad, Telangana.
 
 # Publications
 
